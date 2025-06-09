@@ -7,10 +7,13 @@ height: 100vh;
 }
 
 .cabecalho{
-  background-image: url(./img/);
+  background-image: url(./);
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+height: 300px;
 }
 
 .cabecalho-img{
- width: 50%;
+ width: 20%;
 }
