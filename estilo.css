@@ -5,3 +5,12 @@ color:cadetblue;
 font-size: 50px;
 height: 100vh;
 }
+
+.cabecalho{
+  background-image: url(./img/144001798ad9c9107ad\ 1.png);
+  background-repeat: no-repeat;
+}
+
+.cabecalho-img{
+ width: 50%;
+}
