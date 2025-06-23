@@ -20,3 +20,9 @@ height: 100vh;
 .cabecalho-img{
   width: 20%;
 }
+
+.conteudo1-img{
+  width: 100%;
+  height: 200px;
+  background-image: url("./cenoura.janeiro.png");
+}
