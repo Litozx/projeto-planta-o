@@ -12,6 +12,7 @@ height: 100vh;
   display: flex;
   font-size: 20px;
   justify-content: space-around;
+  color: #2A7B9B;
 }
 
 .cabecalho-img{
