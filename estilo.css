@@ -22,7 +22,7 @@ height: 100vh;
 .conteudo1-img{
   width: 100%;
   height: 200px;
-  background-image: url("./cenoura.janeiro.png");;
+ 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: cover;
@@ -30,4 +30,10 @@ height: 100vh;
   display: flex;
   font-size: 20px;
   justify-content: space-around;
+}
+.janeiro{
+   background-image: url("./cenoura.janeiro.png");
+}
+.fevereiro{
+  background-image: url("./img/alface.fevereiro.png");
 }
