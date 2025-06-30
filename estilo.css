@@ -30,6 +30,7 @@ height: 100vh;
   display: flex;
   font-size: 20px;
   justify-content: space-around;
+  margin-bottom: 20px;
 }
 .janeiro{
    background-image: url("./cenoura.janeiro.png");
