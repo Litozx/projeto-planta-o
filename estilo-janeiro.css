@@ -1,0 +1,16 @@
+body{
+ background-color: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 14%, rgba(37, 199, 209, 1) 31%, rgba(102, 179, 179, 1) 65%, rgba(66, 153, 137, 1) 94%);;
+color:cadetblue;
+font-size: 50px;
+height: 100vh;
+}
+
+.cabecalho{
+
+  height: 300px;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  color: #0a5877;
+}
